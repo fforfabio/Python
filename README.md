@@ -4,7 +4,7 @@
 - [Matlab FFT implementation](#matlab-fft-implementation)
 
 ## DESCRIPTION
-![Python logo](https://www.python.org/static/img/python-logo@2x.png).  
+![Python logo](https://www.python.org/static/img/python-logo@2x.png)  
 This repository contains all the .py files that I have developed and that I have decided to publish for convenience.
 
 ### Matlab FFT implementation
@@ -22,7 +22,7 @@ Into the Matlab_FFT_implementation.py file you can find all my code.
 - [Implementazione della FFT di Matlab](#implementazione-della-fft-di-matlab)
 
 ## DESCRIZIONE
-![Python logo](https://www.python.org/static/img/python-logo@2x.png).  
+![Python logo](https://www.python.org/static/img/python-logo@2x.png)  
 In questa repository sono presenti tutti i file .py che ho sviluppato e che ho deciso di pubblicare per utilità.
 
 ### Implementazione della FFT di Matlab
